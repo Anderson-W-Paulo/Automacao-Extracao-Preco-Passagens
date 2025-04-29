@@ -1,0 +1,15 @@
+Date: 27/4/2025
+Time: 22:15
+Phone Number: +5585986614156
+Message: Aqui está o arquivo CSV das passagens.
+--------------------
+Date: 28/4/2025
+Time: 9:2
+Phone Number: +5585986614156
+Message: Aqui está o arquivo CSV das passagens.
+--------------------
+Date: 28/4/2025
+Time: 9:11
+Phone Number: +5585986614156
+Message: Aqui está o arquivo CSV das passagens.
+--------------------
